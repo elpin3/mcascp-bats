@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>MCASP 2026 Acoustic Monitoring</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Bat 398</name>
+        <TimeStamp>
+          <when>2026-03-25T15:37:04-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8811854831147,34.9444671311579,2.49174474152717
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bumpy Rd</name>
+        <TimeStamp>
+          <when>2026-03-25T19:03:43-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.86779732649,34.926620369898,1.32160738706649
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burn Pond</name>
+        <TimeStamp>
+          <when>2026-03-25T15:33:04-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8868427539106,34.9235671869213,4.77452272857051
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burn Site</name>
+        <TimeStamp>
+          <when>2026-03-25T15:32:36-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8874757862685,34.9239831816923,6.25228465868645
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catfish Lake</name>
+        <TimeStamp>
+          <when>2026-03-25T15:34:26-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8895118901393,34.925026166044,6.70874101961267
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CP1 Puddle</name>
+        <TimeStamp>
+          <when>2026-03-25T15:38:39-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8869287693597,34.9375141256268,8
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duck Pond</name>
+        <TimeStamp>
+          <when>2026-03-26T09:44:57-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8918130118103,34.9312041253331,5.15843735042945
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duffy</name>
+        <TimeStamp>
+          <when>2026-03-25T15:31:26-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8871527673938,34.9208101973043,6.74996261778392
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EAD Corridor</name>
+        <TimeStamp>
+          <when>2026-03-27T09:20:26-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8967696500329,34.9242440260892,5.35076596059571
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G1B Pond</name>
+        <TimeStamp>
+          <when>2026-03-25T15:33:45-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8857756990333,34.9224241975921,5.20748348000688
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G5 Grave</name>
+        <TimeStamp>
+          <when>2026-03-25T15:30:47-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9138191468833,34.9499488974068,6.58666021031992
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G5 Pine</name>
+        <TimeStamp>
+          <when>2026-03-25T15:28:53-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9200874705908,34.9542678320906,8
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G5 Pond</name>
+        <TimeStamp>
+          <when>2026-03-25T15:27:13-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.919348431128,34.9526338463216,6.85125192005096
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G7 Tow</name>
+        <TimeStamp>
+          <when>2026-03-25T15:39:45-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8741641199924,34.9348202119801,7
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golf Moss</name>
+        <TimeStamp>
+          <when>2026-03-25T15:36:34-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8942191485399,34.9482270322502,7
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hancock Inlet</name>
+        <TimeStamp>
+          <when>2026-03-25T15:37:57-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8597913928517,34.9379492858451,1.39823559134032
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunter Branch</name>
+        <TimeStamp>
+          <when>2026-03-25T15:35:58-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8949141633221,34.9248051376951,1.78537066989505
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indigo Field</name>
+        <TimeStamp>
+          <when>2026-03-25T18:52:46-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8668748299742,34.9203886167617,4.39902034221723
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mark</name>
+        <TimeStamp>
+          <when>2026-04-06T14:07:01-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8882928273357,34.9236501787544,6
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meadowlark Swamp</name>
+        <TimeStamp>
+          <when>2026-03-25T15:40:29-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8792723743053,34.92827020862,7.38054749918842
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Osprey Pond</name>
+        <TimeStamp>
+          <when>2026-03-25T16:51:55-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8871595518128,34.9265221506533,4.88262286477051
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Owl Corridor</name>
+        <TimeStamp>
+          <when>2026-03-25T19:53:45-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8882111695056,34.9180036814546,4.4555927747144
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pine Corridor</name>
+        <TimeStamp>
+          <when>2026-03-25T18:04:16-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8851182533438,34.9245088313246,8
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pond B Gone</name>
+        <TimeStamp>
+          <when>2026-03-25T17:27:52-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8886781873288,34.9290038651003,6.85847533154267
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Burn</name>
+        <TimeStamp>
+          <when>2026-03-25T19:28:31-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8719920561299,34.9274643343454,3.81237475876456
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Corridor</name>
+        <TimeStamp>
+          <when>2026-03-25T19:34:52-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8729973535251,34.9246268829616,6.51916559591769
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scout 2</name>
+        <TimeStamp>
+          <when>2026-03-25T16:00:39-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8864656970005,34.9196655502161,6.05641319227316
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skeet Corridor</name>
+        <TimeStamp>
+          <when>2026-03-25T15:43:58-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8829325631342,34.932890168832,8
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skeet Net</name>
+        <TimeStamp>
+          <when>2026-03-25T15:41:17-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8783853322794,34.9323531971979,6.71387245522079
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skeet Swanp</name>
+        <TimeStamp>
+          <when>2026-03-25T17:47:52-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8823234973559,34.9239673863831,6.45289344044091
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Well 22</name>
+        <TimeStamp>
+          <when>2026-03-25T15:35:18-04:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8963122355403,34.9264571222566,6.93221510312123
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>OpenStreetMap</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>7f2e80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2e80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f2e80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Style id="style2">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/purple_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
